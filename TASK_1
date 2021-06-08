@@ -39,14 +39,14 @@
       "cell_type": "code",
       "metadata": {
         "id": "9ikpRxqMSxu0",
-        "outputId": "4c44a229-2c97-4554-bbc6-5aca078bb390",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "6904e189-0361-4842-b0b3-d85c7e44ec54"
       },
       "source": [
+        "#please provide your answer here below this line\n",
         "name=input(\"enter the name:\")\n",
-        " \n",
         "print(\"Hello\",name,\"wellcome to tinkerhub\")"
       ],
       "execution_count": 1,
@@ -54,8 +54,8 @@
         {
           "output_type": "stream",
           "text": [
-            "enter the name:Alwin\n",
-            "Hello Alwin wellcome to tinkerhub\n"
+            "enter the name:ALWIN\n",
+            "Hello ALWIN wellcome to tinkerhub\n"
           ],
           "name": "stdout"
         }
@@ -74,24 +74,25 @@
       "cell_type": "code",
       "metadata": {
         "id": "MMv2yWNtTgEu",
-        "outputId": "44ffaaee-0b92-4133-8122-ef2f29dd1b61",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "65db89fc-e681-4599-bbbd-00bbe357bc32"
       },
       "source": [
+        " \n",
         "#please provide your answer here below this line\n",
         "celsius=float(input(\"enter the temperature in celsius: \"))\n",
         "fahrenheit=(celsius*9/5)+32\n",
         "print (\" temperature in fahrenheit is \",fahrenheit)"
       ],
-      "execution_count": 3,
+      "execution_count": 2,
       "outputs": [
         {
           "output_type": "stream",
           "text": [
-            "enter the temperature in celsius: 37\n",
-            " temperature in fahrenheit is  98.6\n"
+            "enter the temperature in celsius: 38\n",
+            " temperature in fahrenheit is  100.4\n"
           ],
           "name": "stdout"
         }
@@ -110,20 +111,19 @@
       "cell_type": "code",
       "metadata": {
         "id": "27Jj4_D0UQBA",
-        "outputId": "7966cae4-220c-4bb1-a158-a991c118c375",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "255c6f43-6882-43ba-b90a-2c4b5d6fb86b"
       },
       "source": [
         "#please provide your answer here below this line\n",
-        " \n",
         "degree=float(input(\"enter the value of degree : \"))\n",
         "π=3.14\n",
         "radian=degree*π/180\n",
         "print (\" value in radian is\",radian)"
       ],
-      "execution_count": 4,
+      "execution_count": 3,
       "outputs": [
         {
           "output_type": "stream",
